@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [anibalolivares.cf](anibalolivares.cf)
+- 👨‍💻 More about me in [anibal.cf](anibal.cf)
 
 - 📫 How to reach me **olivaresluisanibal@gmail.com**
 
