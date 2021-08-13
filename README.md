@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently looking for a **job in React**
 
-- 👨‍💻 More about me in [anibal.cf](anibal.cf)
+- 👨‍💻 More about me in [anibal.cf](https://anibal.cf)
 
 - 📫 How to reach me **olivaresluisanibal@gmail.com**
 
