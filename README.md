@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anibaldbxd&label=Profile%20views&color=0e75b6&style=flat" alt="anibaldbxd" /> </p>
 
-- 🌱 I'm currently looking for a **job in React**
-
 - 👨‍💻 More about me in [anibal.cf](https://anibal.cf)
 
 - 📫 How to reach me **olivaresluisanibal@gmail.com**
