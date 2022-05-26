@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anibaldbxd&label=Profile%20views&color=0e75b6&style=flat" alt="anibaldbxd" /> </p>
 
-- 👨‍💻 More about me in [anibal.cf](https://anibal.cf)
+- 👨‍💻 More about me in my [portfolio](https://windows-cv.vercel.app/)
 
 - 📫 How to reach me **olivaresluisanibal@gmail.com**
 
